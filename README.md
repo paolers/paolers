@@ -6,7 +6,7 @@
 
 ## Conecte-se comigo
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https:://www.linkedin.com/in/paolaazzar)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)]([https:://www.linkedin.com/in/paolaazzar](https://www.linkedin.com/in/paolaazzar/))
 
 ## Habilidades
 
