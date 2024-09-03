@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou a Paola :)
 
-<!--
-**paolers/paolers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tenho 23 anos
+- Sou formada em Física
+- Entusiasta de Ciência de Dados 
 
-Here are some ideas to get you started:
+## Conecte-se comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https:://www.linkedin.com/in/paola-rebeca-storino-azzar-440934203)
+![Discord](https://img.shields.io/discord/:paolers)
+
+
+## Habilidades
+
+[![My Skills](https://skillicons.dev/icons?i=python,latex,obsidian,blender)](https://skillicons.dev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolers&theme=transparent&bg_color=ec63a1&border_color=ffff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paolers&layout=compact&bg_color=ec63a1&border_color=ffff&title_color=E94D5F&text_color=FFF)
