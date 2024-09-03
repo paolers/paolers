@@ -1,8 +1,9 @@
 # Olá! Eu sou a Paola 🪐
 
 - Tenho 23 anos
-- Sou formada em Física
-- Entusiasta de Ciência de Dados 
+- Sou Física entusiasta da área de dados
+- Meus interesses vão desde ciência, programação, literatura, até jogos, rpg de mesa e culinária
+- Curiosidade sobre mim: sou apaixonada por mistério e investigação e meu genêro preferido de livros e mídia é True-crime 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
 
