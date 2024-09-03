@@ -3,7 +3,7 @@
 - Tenho 23 anos
 - Sou Física entusiasta da área de dados
 - Meus interesses vão desde ciência, programação, literatura, até jogos, rpg de mesa e culinária
-- Curiosidade sobre mim: sou apaixonada por mistério e investigação e meu genêro preferido de livros e mídia é True-crime 
+- Curiosidade sobre mim: sou apaixonada por mistério, investigação e True-crime 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
 
