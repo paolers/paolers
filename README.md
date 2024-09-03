@@ -5,7 +5,7 @@
 - Meus interesses vão desde ciência, programação, literatura, até jogos, rpg de mesa e culinária
 - Curiosidade sobre mim: sou apaixonada por mistério e investigação e meu genêro preferido de livros e mídia é True-crime 
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
+[![Linkedin]((https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/paolaazzar/)
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,latex,obsidian,blender)](https://skillicons.dev)
