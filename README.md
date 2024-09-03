@@ -6,9 +6,7 @@
 
 ## Conecte-se comigo
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https:://www.linkedin.com/in/paola-rebeca-storino-azzar-440934203)
-![Discord](https://img.shields.io/discord/:paolers)
-
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https:://www.linkedin.com/in/paolaazzar)
 
 ## Habilidades
 
