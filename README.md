@@ -1,4 +1,4 @@
-# Olá! Eu sou a Paola :)
+# Olá! Eu sou a Paola :) 🪐
 
 - Tenho 23 anos
 - Sou formada em Física
