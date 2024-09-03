@@ -4,11 +4,8 @@
 - Sou formada em Física
 - Entusiasta de Ciência de Dados 
 
-## Conecte-se comigo
-
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
 
-## Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=python,latex,obsidian,blender)](https://skillicons.dev)
 
