@@ -11,8 +11,8 @@
   - :game_die: rpg de mesa
   - :green_salad: culinária
 
-- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:paola.azzar@gmail.com)
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:paola.azzar@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
 
 ### 🛠️ Ferramentas
 
