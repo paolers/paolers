@@ -1,11 +1,12 @@
 # Olá! Eu sou a Paola 🪐
 
 - Tenho 23 anos
-- Sou Física entusiasta da área de dados e modelagem de Risco Financeiro
-- Meus interesses vão desde ciência, programação, literatura, até jogos, rpg de mesa e culinária
+- Sou Bacharel em Física, entusiasta da área de dados e modelagem de Risco Financeiro;
+- Atualmente trabalho desenvolvendo modelagens e validação de features na área de Risco de Mercado e Regulatórios do Banco Central;
+- Meus interesses vão desde ciência, programação, literatura, até jogos, rpg de mesa e culinária;
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
+- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:paola.azzar@gmail.com)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
 
 ### 🛠️ Ferramentas
 
