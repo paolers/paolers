@@ -1,8 +1,8 @@
 # Olá! Eu sou a Paola 🪐
 
-- Tenho 23 anos
-- Sou Bacharel em Física, entusiasta da área de dados e modelagem de Risco Financeiro;
-- Atualmente trabalho desenvolvendo modelagens e validação de features na área de Risco de Mercado e Regulatórios do Banco Central;
+- 23 anos, Bacharel em Física.
+- Experiência na área de dados e modelagem de Risco Financeiro;
+- Trabalho desenvolvendo modelagens e validação de features na área de Risco de Mercado e Regulatórios do Banco Central;
 - Meus interesses vão desde ciência, programação, literatura, até jogos, rpg de mesa e culinária;
 
 - [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:paola.azzar@gmail.com)
