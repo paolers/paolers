@@ -4,10 +4,8 @@
 - Experiência na área de Dados, Modelagem e Validação de produtos e Risco Financeiro;
 - Além dos projetos profissionais, me interesso por:
   - :telescope: astronomia
-  - :computer: programação
   - :art: arte e literatura
   - :video_game: jogos
-  - :game_die: rpg de mesa
   - :green_salad: culinária
 
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:paola.azzar@gmail.com)
