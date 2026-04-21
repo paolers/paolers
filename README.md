@@ -1,8 +1,7 @@
 # Olá! Eu sou a Paola 🪐
 
-- 23 anos, Bacharel em Física.
-- Experiência na área de dados e modelagem de Risco Financeiro;
-- Trabalho desenvolvendo modelagens e validação de features na área de Risco de Mercado e Regulatórios do Banco Central;
+- 24 anos, Bacharel em Física.
+- Experiência na área de Dados, Modelagem e Validação de produtos e Risco Financeiro;
 - Além dos projetos profissionais, me interesso por:
   - :telescope: astronomia
   - :computer: programação
