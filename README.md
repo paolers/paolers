@@ -1,17 +1,14 @@
-# Olá! Eu sou a Paola 🪐
+# hello :) I am Paola 🪐
 
-- 24 anos, Bacharel em Física.
-- Experiência na área de Dados, Modelagem e Validação de produtos e Risco Financeiro;
-- Além dos projetos profissionais, me interesso por:
-  - :telescope: astronomia
-  - :art: arte e literatura
-  - :video_game: jogos
-  - :green_salad: culinária
+- 24 yearls old, bachelor´s degree in physics.
+- my experiencies are data analysys, data science, product modeling and financial risk;
+- beyond professional projects, I am passionated about:
+  - :telescope: astronomy
+  - :art: art and literature
+  - :video_game: games
+  - :green_salad: cooking
 
-  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:paola.azzar@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaazzar/)
-
-### 🛠️ Ferramentas
+### 🛠️ tools
 
 <p align="left"> 
 <img src="https://img.shields.io/badge/-EXCEL-0F723B?style=for-the-badge&amp;labelColor=212121&amp;logo=microsoftexcel&logoColor=0F723B"> 
