@@ -1,6 +1,6 @@
 # hello :) I am Paola 🪐
 
-- 24 yearls old, bachelor´s degree in physics.
+- bachelor´s degree in physics.
 - my experiencies are data analysys, data science, product modeling and financial risk;
 - beyond professional projects, I am passionated about:
   - :telescope: astronomy
